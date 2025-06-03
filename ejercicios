@@ -23,3 +23,37 @@ area = base + altura
 print("El area del triangulo es", area)
 
 ejercicio 4
+
+numero = int(input("Ingrese un número: "))
+
+if numero % 2 == 0:
+    print("El número es par.")
+else:
+    print("El número es impar.")    
+
+ejercicio 5
+
+a = int(input("Ingrese el valor de a: "))
+b = int(input("Ingrese el valor de b: "))
+
+print(f"\nAntes del intercambio: a = {a}, b = {b}")
+
+
+a, b = b, a
+
+print(f"Después del intercambio: a = {a}, b = {b}")
+
+ejercicio 6
+
+num1 = float(input("Ingrese un número: "))
+num2 = float(input("Ingrese otro número: "))
+
+suma = num1 + num2
+resta = num1 - num2
+multiplicacion = num1 * num2
+division = num1 / num2 if num2 != 0 else "Error: División por cero"
+
+print(f"Suma: {suma}")
+print(f"Resta: {resta}")   
+print(f"Multiplicación: {multiplicacion}")
+print(f"División: {division}")

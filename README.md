@@ -1,16 +1,16 @@
 # 🧑‍💻 Mi Portafolio de Desarrollo
 
-¡Hola! Soy [Tu Nombre], desarrollador/a [frontend/backend/fullstack] apasionado/a por la tecnología, el diseño limpio y las soluciones eficientes. Este repositorio es una recopilación de mis principales proyectos, habilidades y experiencias.
+¡Hola! Soy Nathan, desarrollador/a frontenda pasionado/a por la tecnología, el diseño limpio y las soluciones eficientes. Este repositorio es una recopilación de mis principales proyectos, habilidades y experiencias.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 Formación: [Tu carrera o formación técnica]
-- 🌍 Ubicación: [Ciudad, país]
-- 💼 Actualmente trabajando en: [Empresa o freelance]
-- 💡 Intereses: Desarrollo web, inteligencia artificial, UI/UX, automatización
-- 📫 Contacto: [tu-email@ejemplo.com] | [LinkedIn](https://linkedin.com/in/tuusuario)
+- 🎓 Formación: Bachiller
+- 🌍 Ubicación: Bogota, Colombia
+- 💼 Actualmente trabajando en: YO
+- 💡 Intereses: Desarrollo web, inteligencia artificial
+- 📫 Contacto: neithanpardo@gmail.com 
 
 ---
 
@@ -24,20 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
 
-## 📂 Proyectos Destacados
-
-### 🔗 [Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1)
-Descripción breve del proyecto, tecnologías usadas y el propósito o problema que resuelve.
-
-### 🔗 [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2)
-Otra descripción breve con enfoque en lo interesante o complejo del proyecto.
-
-### 🔗 [Nombre del Proyecto 3](https://github.com/tuusuario/proyecto3)
-Incluye también si hay un demo en vivo: [Ver demo](https://demo.com)
-
----
 
 ## 📈 Estadísticas de GitHub
 
@@ -48,9 +35,8 @@ Incluye también si hay un demo en vivo: [Ver demo](https://demo.com)
 
 ## 🎯 Objetivos Actuales
 
-- Mejorar habilidades en [ej: TypeScript y Next.js]
 - Contribuir a proyectos open source
-- Prepararme para certificaciones [ej: AWS, Google Cloud]
+
 
 ---
 
